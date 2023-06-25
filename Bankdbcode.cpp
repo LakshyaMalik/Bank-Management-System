@@ -26,10 +26,8 @@ int main()
 
     num_acc=0;
     while(1)
-    {  //textcolor(GREEN);
-       printf("\n\t \t ***** Welcome to Bank Application *****\n\n");
+    {  printf("\n\t \t ***** Welcome to Bank Application *****\n\n");
        printf("\n\tThis program is brought you by ");
-       //textcolor(CYAN);
        printf("Lakshya Malik\n\n");
        display_options();
        printf("Please enter any options (1/2/3/4/5/6) ");
